@@ -1,6 +1,11 @@
 {
-  "name": "my-app",
+  "name": "react_sanbercode18_quiz3",
   "version": "0.1.0",
+  "author": {
+    "email": "the.oyrus@gmail.com",
+    "name": "Suryo Prasetyo W",
+    "url": "https://theoyr.us"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.20.0",
